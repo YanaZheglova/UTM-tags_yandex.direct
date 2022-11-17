@@ -1,1 +1,3 @@
 utm_source=yandex&utm_medium=cpc&utm_campaign=cid|{campaign_name_lat}|{campaign_id}|{source_type}&utm_content=gid|{gbid}|aid|{ad_id}|{phrase_id}|{retargeting_id}|{device_type}|{region_name}&utm_term={keyword}&pm_source={source}&pm_block={position_type}&pm_position={position}
+
+utm_source=yandex&utm_medium=cpc&utm_campaign=search|{campaign_id}&utm_content=phrase_id|{phrase_id}|gid|{gbid}|aid|{ad_id}&utm_term={keyword}&added={addphrases}&block={position_type}&pos={position}&device={device_type}
